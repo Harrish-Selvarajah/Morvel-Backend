@@ -8,7 +8,7 @@ Jinja2==2.10.1
 joblib==0.13.2
 MarkupSafe==1.1.1
 mkl-fft==1.0.6
-mkl-random==1.0.2
+mkl-random==1.0.1
 numpy==1.16.3
 scikit-learn==0.20.3
 scikit-surprise==1.0.6
