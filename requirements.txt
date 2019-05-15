@@ -1,4 +1,4 @@
-numpy=>1.11.2
+numpy==1.11.2
 surprise
 Flask
 Flask-Cors
